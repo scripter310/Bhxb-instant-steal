@@ -36,7 +36,7 @@ TextLabel.BackgroundTransparency = 1
 TextLabel.Text = "bhxb script listening for steal"
 TextLabel.Font = Enum.Font.GothamBold
 TextLabel.TextSize = 18
-TextLabel.TextColor3 = Color3.fromRGB(0, 140, 255)
+TextLabel.TextColor3 = Color3.fromRGB(255, 0, 0)
 TextLabel.TextWrapped = true
 TextLabel.Parent = Frame
 
