@@ -26,7 +26,7 @@ UICorner.CornerRadius = UDim.new(0, 16)
 
 local UIStroke = Instance.new("UIStroke")
 UIStroke.Parent = Frame
-UIStroke.Color = Color3.fromRGB(0, 140, 255)
+UIStroke.Color = Color3.fromRGB(255, 0, 0)
 UIStroke.Thickness = 2
 UIStroke.Transparency = 0.2
 
